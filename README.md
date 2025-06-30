@@ -45,15 +45,15 @@ Abaixo estão exemplos visuais da planilha de Simulador de IR:
 
 ### 📄 Aba Titular
 
-![Aba Titular](Organizador_Declaração_IR_Titular.png)
+![Aba Titular](Organizador_Declaração_Titular.png)
 
 ### 📊 Aba Informes
 
-![Aba Informes](Organizador_Declaração_IR_Informes.png)
+![Aba Informes](Organizador_Declaração_Informes.png)
 
 ### 📊 Aba Notas
 
-![Aba Notas](Organizador_Declaração_IR_Notas.png)
+![Aba Notas](Organizador_Declaração_Notas.png)
 
 
 ---
